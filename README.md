@@ -6,7 +6,8 @@ The goal is to classify news articles as fake or real using NLP techniques and a
 ## Authors
 
 - Zohar Avramoviz
-- [Add partner name]
+- Ido Levi
+- Sharon Elimelech
 
 ## Project Overview
 
