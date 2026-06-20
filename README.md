@@ -1,4 +1,4 @@
-# Fake News Classification using Custom Multinomial Naive Bayes 📰🤖
+# Fake News Classification using Custom Multinomial Naive Bayes
 
 This project was developed as part of the Machine Learning course at HIT (Holon Institute of Technology).
 The goal is to classify news articles as fake or real using NLP techniques and a custom implementation of Multinomial Naive Bayes.
